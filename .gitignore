@@ -1,0 +1,19 @@
+# Personal notes (not for sharing)
+preparation/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian
+.obsidian/
+
+# Environment files
+.env
+.env.local
+*.secret
+
+# Temporary files
+*.tmp
+*~
